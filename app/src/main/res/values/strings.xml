@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Card_view_custom_style</string>
+    <string name="hello">Hello Guys</string>
+    <string name="welcome">Welcome To Card View</string>
+    <string name="btn">Button</string>
+</resources>
